@@ -1,4 +1,9 @@
 # Explainable Pneumonia Detection — Legacy Project Wrapper
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0%3a56ccf2%2c100%3a2f80ed&height=230&section=header&text=Pneumonia+Project+Phase&fontSize=38&fontColor=ffffff&fontAlignY=35&desc=Legacy+Wrapper+%7c+Medical+ML+Project&descSize=16&descAlignY=55&animation=fadeIn" alt="Pneumonia Project Phase project banner" width="100%" />
+</p>
+
+<p align="center"><em>Project-themed banner generated from an internet-hosted image service for a cleaner GitHub presentation.</em></p>
 
 This repository is a legacy wrapper that links to the pneumonia-detection project as a Git submodule.
 
